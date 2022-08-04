@@ -1,0 +1,17 @@
+body{
+    background-image: url(./image/backgroung.gif);
+    background-size: cover;
+}
+#player1{
+    position: absolute;
+    bottom: 2px;
+    left: 25px;
+    height: 500px;
+    
+}
+#player2{
+    position: absolute;
+    bottom: 2px;
+    right: 25px;
+    height: 500px;
+}
